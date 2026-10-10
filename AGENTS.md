@@ -9,9 +9,9 @@ all three faces, so each face returns the same shape.
 
 ## The three faces
 
-- SDK: `import { summarizeText } from "@pooriaarab/agentic-core"`.
-- CLI: `npx @pooriaarab/agentic-core summary --text "..."`.
-- MCP: `npx @pooriaarab/agentic-core mcp`, then call a tool below.
+- SDK: `import { summarizeText } from "agentic-core"`.
+- CLI: `npx agentic-core summary --text "..."`.
+- MCP: `npx agentic-core mcp`, then call a tool below.
 
 Keywords: shared-types, config, guards, agentic-suite, claude-code, codex, cli, mcp.
 
