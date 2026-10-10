@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentic-core": {
+      "command": "npx",
+      "args": ["-y", "@pooriaarab/agentic-core", "mcp"]
+    }
+  }
+}

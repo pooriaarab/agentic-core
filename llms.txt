@@ -1,0 +1,15 @@
+# agentic-core
+
+Shared core for CLI tools: brand config, logs, and guards.
+
+Keywords: shared-types, config, guards, agentic-suite, claude-code, codex, cli, mcp.
+
+- SDK: import { summarizeText, dispatchText } from "@pooriaarab/agentic-core".
+- CLI: agentic-core summary --text "...".
+- MCP: run agentic-core mcp, then call summarize_text.
+
+## Docs
+
+- README: https://github.com/pooriaarab/agentic-core
+- Core contract: https://github.com/pooriaarab/agentic-core/blob/main/docs/agentic-core.md
+- License: MIT
