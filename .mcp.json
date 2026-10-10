@@ -2,7 +2,7 @@
   "mcpServers": {
     "agentic-core": {
       "command": "npx",
-      "args": ["-y", "@pooriaarab/agentic-core", "mcp"]
+      "args": ["-y", "agentic-core", "mcp"]
     }
   }
 }

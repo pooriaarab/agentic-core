@@ -4,7 +4,7 @@ Shared core for CLI tools: brand config, logs, and guards.
 
 Keywords: shared-types, config, guards, agentic-suite, claude-code, codex, cli, mcp.
 
-- SDK: import { summarizeText, dispatchText } from "@pooriaarab/agentic-core".
+- SDK: import { summarizeText, dispatchText } from "agentic-core".
 - CLI: agentic-core summary --text "...".
 - MCP: run agentic-core mcp, then call summarize_text.
 

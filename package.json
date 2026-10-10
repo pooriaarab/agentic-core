@@ -1,5 +1,5 @@
 {
-  "name": "@pooriaarab/agentic-core",
+  "name": "agentic-core",
   "version": "0.1.0",
   "description": "Shared core for CLI tools: brand config, logs, and guards.",
   "keywords": [

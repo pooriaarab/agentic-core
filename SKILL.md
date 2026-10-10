@@ -10,7 +10,7 @@ Shared core for CLI tools: brand config, logs, and guards.
 ## Use the SDK
 
 ```js
-import { summarizeText, dispatchText } from "@pooriaarab/agentic-core";
+import { summarizeText, dispatchText } from "agentic-core";
 
 summarizeText("some text");
 await dispatchText("some text", { dryRun: true });

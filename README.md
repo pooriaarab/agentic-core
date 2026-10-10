@@ -7,7 +7,7 @@ One core serves three faces: a terminal command, an npm import, and an MCP serve
 ## Install
 
 ```sh
-npm install @pooriaarab/agentic-core
+npm install agentic-core
 ```
 
 ## Use it
@@ -15,13 +15,13 @@ npm install @pooriaarab/agentic-core
 Run the command:
 
 ```sh
-npx @pooriaarab/agentic-core summary --text "hello world hello"
+npx agentic-core summary --text "hello world hello"
 ```
 
 Import the library:
 
 ```js
-import { summarizeText } from "@pooriaarab/agentic-core";
+import { summarizeText } from "agentic-core";
 
 console.log(summarizeText("hello world hello"));
 ```
@@ -29,7 +29,7 @@ console.log(summarizeText("hello world hello"));
 Start the MCP server:
 
 ```sh
-npx @pooriaarab/agentic-core mcp
+npx agentic-core mcp
 ```
 
 ## Three usecases
