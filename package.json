@@ -1,6 +1,6 @@
 {
   "name": "agentic-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript toolkit for Node.js CLI and MCP tools with brand config, logging, dispatch guards, HTTP routing, and text statistics.",
   "keywords": [
     "typescript",
