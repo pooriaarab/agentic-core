@@ -1,16 +1,20 @@
 {
   "name": "agentic-core",
   "version": "0.1.0",
-  "description": "Shared core for CLI tools: brand config, logs, and guards.",
+  "description": "TypeScript toolkit for Node.js CLI and MCP tools with brand config, logging, dispatch guards, HTTP routing, and text statistics.",
   "keywords": [
-    "shared-types",
-    "config",
-    "guards",
-    "agentic-suite",
-    "claude-code",
-    "codex",
+    "typescript",
+    "nodejs",
     "cli",
-    "mcp"
+    "mcp",
+    "model-context-protocol",
+    "zod",
+    "logging",
+    "dispatch-guards",
+    "http-routing",
+    "text-statistics",
+    "brand-config",
+    "usage-tracking"
   ],
   "license": "MIT",
   "author": "Pooria Arab",
